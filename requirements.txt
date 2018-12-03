@@ -1,0 +1,6 @@
+flask
+flask-assistant
+requests
+python-docx
+wakeonlan
+aniso8601
